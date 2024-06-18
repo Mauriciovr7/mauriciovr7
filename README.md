@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Mauriciovr7/mauriciovr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![mauriciovr7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovr7&langs_count=6&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
